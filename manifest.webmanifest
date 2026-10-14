@@ -1,0 +1,33 @@
+{
+ "name": "المسبحة",
+ "short_name": "المسبحة",
+ "description": "مسبحة إلكترونية مع أذكار وأدعية",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#f1f8f5",
+ "theme_color": "#0f9d7f",
+ "lang": "ar",
+ "dir": "rtl",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
